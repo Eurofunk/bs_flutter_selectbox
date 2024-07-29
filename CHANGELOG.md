@@ -1,7 +1,9 @@
+
 ### 1.2.2
 * Set mutiple selected bug fixed
 * Close overlay by click outsite
 * Custom style
+* Test
 
 ### 1.1.13
 
