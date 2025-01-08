@@ -1,12 +1,13 @@
 import 'package:bs_flutter_selectbox/bs_flutter_selectbox.dart';
 import 'package:bs_flutter_selectbox/src/components/bs_wrapper_option.dart';
-import 'package:bs_flutter_utils/bs_flutter_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'utils/bs_utils.dart';
 
 export 'customize/bs_selectbox_size.dart';
 export 'customize/bs_selectbox_style.dart';
 export 'utils/bs_overlay.dart';
+
 
 class BsSelectBox extends StatefulWidget {
   const BsSelectBox({
