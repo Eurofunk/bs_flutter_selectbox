@@ -1,5 +1,7 @@
-import 'package:bs_flutter_utils/bs_flutter_utils.dart';
+
 import 'package:flutter/material.dart';
+
+import '../utils/bs_utils.dart';
 
 class BsSelectBoxStyle {
   const BsSelectBoxStyle({
